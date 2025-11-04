@@ -1,3 +1,5 @@
+<img width="1502" height="1115" alt="PixPin_2025-11-04_17-55-01" src="https://github.com/user-attachments/assets/0788a72d-5d70-41d8-a5bc-33e2659c3f29" />
+
 # 词云图生成器 (Tkinter版本)
 
 一个基于Tkinter的中文词云图生成工具，支持多种文本输入方式和丰富的自定义选项。
